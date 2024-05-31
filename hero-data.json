@@ -1,0 +1,174 @@
+[
+  {
+    "href": "https://www.energywebx.com/",
+    "image": "url(/hero/hero-welcome.svg)",
+    "title": [
+      {
+        "type": "text",
+        "value": "Welcome to"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "gradient",
+        "value": "Energy Web X"
+      }
+    ],
+    "description": [
+      {
+        "type": "text",
+        "value": "Connect, Run, Earn: Run Worker Nodes for"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "text",
+        "value": "enterprises and earn rewards by doing so"
+      }
+    ]
+  },
+  {
+    "href": "https://www.twitter.com/daniyalajdadi",
+    "image": "url(/hero/hero-chaos.png)",
+    "title": [
+      {
+        "type": "text",
+        "value": "Join the "
+      },
+      {
+        "type": "gradient",
+        "value": "Expect"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "gradient",
+        "value": "Chaos "
+      },
+      {
+        "type": "text",
+        "value": "events on "
+      },
+      {
+        "type": "image",
+        "value": "url(/hero/twitter-x.svg)"
+      }
+    ],
+    "description": [
+      {
+        "type": "text",
+        "value": "Tune in to weekly spaces to talk all things"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "text",
+        "value": "about the energy web marketplace."
+      }
+    ]
+  },
+  {
+    "href": "https://twitter.com/XEnergyWeb/status/1758185587629039713",
+    "image": "url(/hero/hero-lift.png)",
+    "title": [
+      {
+        "type": "text",
+        "value": "Are you Eligible for"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "text",
+        "value": "the "
+      },
+      {
+        "type": "gradient",
+        "value": "Digital Spine"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "gradient",
+        "value": "Pool?"
+      }
+    ],
+    "description": [
+      {
+        "type": "text",
+        "value": "Check your eligibility for the Digital Spine pool now!"
+      }
+    ],
+    "descriptionMargin": 12
+  },
+  {
+    "href": "https://www.energywebx.com/",
+    "image": "url(/hero/hero-enterprise-solutions.png)",
+    "title": [
+      {
+        "type": "text",
+        "value": "Unleash Your"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "gradient",
+        "value": "Worker Node"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "text",
+        "value": "For Enterprise"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "text",
+        "value": "Solutions"
+      }
+    ]
+  },
+  {
+    "href": "https://www.energywebx.com/",
+    "image": "url(/hero/hero-learn-more.png)",
+    "title": [
+      {
+        "type": "text",
+        "value": "Learn more "
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "text",
+        "value": "about "
+      },
+      {
+        "type": "gradient",
+        "value": "Energy Web X"
+      }
+    ],
+    "description": [
+      {
+        "type": "text",
+        "value": "Visit our website at"
+      },
+      {
+        "type": "breakline"
+      },
+      {
+        "type": "text",
+        "value": "www.energywebx.com"
+      }
+    ]
+  }
+]
