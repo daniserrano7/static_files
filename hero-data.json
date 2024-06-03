@@ -1,7 +1,7 @@
 [
   {
     "href": "https://www.energywebx.com/",
-    "image": "url(/hero/hero-welcome.svg)",
+    "image": "https://raw.githubusercontent.com/daniserrano7/static_files/master/hero-banner/hero-welcome.svg",
     "title": [
       {
         "type": "text",
@@ -31,7 +31,7 @@
   },
   {
     "href": "https://www.twitter.com/daniyalajdadi",
-    "image": "url(/hero/hero-chaos.png)",
+    "image": "https://raw.githubusercontent.com/daniserrano7/static_files/master/hero-banner/hero-chaos.png",
     "title": [
       {
         "type": "text",
@@ -54,7 +54,7 @@
       },
       {
         "type": "image",
-        "value": "url(/hero/twitter-x.svg)"
+        "value": "https://raw.githubusercontent.com/daniserrano7/static_files/master/hero-banner/twitter-x.sv)"
       }
     ],
     "description": [
@@ -73,7 +73,7 @@
   },
   {
     "href": "https://twitter.com/XEnergyWeb/status/1758185587629039713",
-    "image": "url(/hero/hero-lift.png)",
+    "image": "https://raw.githubusercontent.com/daniserrano7/static_files/master/hero-banner/hero-lift.png",
     "title": [
       {
         "type": "text",
@@ -108,7 +108,7 @@
   },
   {
     "href": "https://www.energywebx.com/",
-    "image": "url(/hero/hero-enterprise-solutions.png)",
+    "image": "https://raw.githubusercontent.com/daniserrano7/static_files/master/hero-banner/hero-enterprise-solutions.png",
     "title": [
       {
         "type": "text",
@@ -139,7 +139,7 @@
   },
   {
     "href": "https://www.energywebx.com/",
-    "image": "url(/hero/hero-learn-more.png)",
+    "image": "https://raw.githubusercontent.com/daniserrano7/static_files/master/hero-banner/hero-learn-more.png",
     "title": [
       {
         "type": "text",
